@@ -73,12 +73,18 @@ You can find the detailed documentation for API endpoints in the Swagger UI. Use
 
 ## Screenshots
 **Student controller**
+![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/e9842238-addb-4fd8-b0be-4f04bf9b5101)
+**1**
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/26e44e51-cd02-4908-9f9b-2b284be175fa)
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/b85f1fdb-86aa-4c2c-896d-98527ce555a9)
 **Role controller**
+![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/bc96c852-ea83-4aa7-a99c-ddc788620f7d)
+**1**
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/fe37b093-d6cc-4171-9243-4dd4902e78c8)
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/a8f07c5c-cc64-4513-a7b1-8b1e13f4f18d)
 **Filiere controller**
+![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/a66e7d8b-6648-44ca-89d9-fed00f05f0cc)
+**1**
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/5ad14a36-bf6a-4aa8-896a-087d1e75d44f)
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/5bbcb751-714d-4397-bb91-176890a46c5f)
 
