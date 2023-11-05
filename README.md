@@ -89,6 +89,10 @@ You can find the detailed documentation for API endpoints in the Swagger UI. Use
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/5ad14a36-bf6a-4aa8-896a-087d1e75d44f)
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/5bbcb751-714d-4397-bb91-176890a46c5f)
 **postman**
+   **filiere**
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/f8c74b91-c66b-4ece-823d-f062ef579143)
-
+   **roles**
+![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/6406148e-029c-4dec-906c-2a0e4c055ed8)
+**student**
+![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/5d0d6b42-d9c1-4c64-9441-4fb435376ee9)
 
