@@ -72,6 +72,7 @@ You can find the detailed documentation for API endpoints in the Swagger UI. Use
 - BAJEDDI
 
 ## Screenshots
+**Swagger ui**
 **Student controller**
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/e9842238-addb-4fd8-b0be-4f04bf9b5101)
 **1**
@@ -87,5 +88,7 @@ You can find the detailed documentation for API endpoints in the Swagger UI. Use
 **1**
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/5ad14a36-bf6a-4aa8-896a-087d1e75d44f)
 ![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/5bbcb751-714d-4397-bb91-176890a46c5f)
+**postman**
+![image](https://github.com/BAJEDDI/springbootproject/assets/147507670/f8c74b91-c66b-4ece-823d-f062ef579143)
 
 
